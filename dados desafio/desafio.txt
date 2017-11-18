@@ -1,0 +1,30 @@
+Goiânia 1 33 44 222
+Goiânia 2 32 33 222
+Goiânia 3 22 37 222
+Goiânia 4 24 38 222
+Goiânia 5 33 35 222
+Goiânia 6 25 37 222
+Goiânia 7 32 34 222
+Brasília 1 22 34 233
+Brasília 2 23 43 233
+Brasília 3 32 33 233
+Brasília 4 32 34 233
+Brasília 5 30 31 233
+Brasília 6 25 26 233
+Brasília 7 21 22 233
+Curitiba 1 12 14 12
+Curitiba 2 14 15 12
+Curitiba 3 13 16 12
+Curitiba 4 11 19 12
+Curitiba 5 12 16 12
+Curitiba 6 16 21 12
+Curitiba 7 22 25 12
+Aparecida 1 33 34 33
+Aparecida 2 32 25 33
+Aparecida 3 15 16 33
+Aparecida 4 12 14 33
+Aparecida 5 15 19 33
+Aparecida 6 16 22 33
+Aparecida 7 22 25 33
+
+
